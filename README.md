@@ -18,7 +18,6 @@
 
 ## Model performance
 The Bi-directional Model trained on the corpus delivered an accuracy of 85% on the test data.
-<img target="_blank" src="https://github.com/kalpesh22-21/Cement_Strength_Predictor/blob/main/Accuracy.png" width=270>
 
 ## Deployment
 In this step, I built a flask API endpoint that was hosted on a local webserver.
